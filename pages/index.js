@@ -85,8 +85,8 @@ const Index = () => (
       <Image
         alt="Next.js logo"
         src="/cryptopunk7804.png"
-        width={1200}
-        height={400}
+        // width={1200}
+        // height={400}
       />
       <hr className={styles.hr} />
       <h2 id="more">Learn More</h2>
