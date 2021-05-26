@@ -9,13 +9,9 @@ const Index = () => (
   <div className={styles.container}>
     <ViewSource pathname="pages/index.js" />
     <div className={styles.card}>
-      <h1>Image Component with Next.js</h1>
+      <h1>Display real-time crypto prices through an image</h1>
       <p>
-        This page demonstrates the usage of the{' '}
-        <a href="https://nextjs.org/docs/api-reference/next/image">
-          next/image
-        </a>{' '}
-        component with live examples.
+        Overwrite a .PNG file with real-time cryptocurrency prices
       </p>
       <p>
         This component is designed to{' '}
