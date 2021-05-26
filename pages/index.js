@@ -84,7 +84,7 @@ const Index = () => (
       </p>
       <Image
         alt="Next.js logo"
-        src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js-bg.png"
+        src="/cryptopunk7804.png"
         width={1200}
         height={400}
       />
